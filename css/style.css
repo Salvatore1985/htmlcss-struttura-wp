@@ -67,3 +67,8 @@ section{
     height: 50px;  
    
 }
+footer{ 
+    height: 50px;
+    background-color: #8801FE;
+    margin-top: 10px;
+}
